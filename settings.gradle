@@ -1,0 +1,5 @@
+include ':sdk'
+include ':app'
+include ':app'
+rootProject.name = "ARCore_Test"
+include ':java'
